@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xfa generator='XFA2_4' APIVersion='3.3.10270.0'?>
+<xdp:xdp xmlns:xdp='http://ns.adobe.com/xdp/' timeStamp='2016-02-23T19:14:31Z'>
+	<xfa:datasets xmlns:xfa='http://www.xfa.org/schema/xfa-data/1.0/'>
+		<xfa:data>
+			<form1 xmlns:d394v3="mfp:anaf:dgti:d394:declaratie:v3">
+				<universalCode>D394_A</universalCode>
+				<body1>
+					<HEADER xfa:dataNode="dataGroup"
+						xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+					<sub_per>
+						<an_r>2017</an_r>
+						<TIP_D394>T</TIP_D394>
+						<luna_r>3</luna_r>
+						<sistem>1</sistem>
+						<operatiuni>1</operatiuni>
+					</sub_per>
+					<sub_dateDeIdentificare>
+						<cif>123123</cif>
+						<den>Firma Mea</den>
+						<adresa>Alba Câmpeni Str. Livezilor</adresa>
+						<telefon>1458725412</telefon>
+						<fax>456321789</fax>
+						<mail />
+						<d_rec>0</d_rec>
+						<caen>4587</caen>
+					</sub_dateDeIdentificare>
+				</body1>
+				<body11>
+					<sub_dateDeIdentificare>
+						<cifR />
+						<denR>-</denR>
+						<adresaR>-</adresaR>
+						<telefonR />
+						<faxR />
+						<mailR />
+					</sub_dateDeIdentificare>
+				</body11>
+				<bodyC>
+					<nrCUI>2</nrCUI>
+					<Crepet>
+						<cota>19</cota>
+						<tabel>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<L>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L>
+							<Ltel>
+								<facturi />
+								<baza />
+								<tva />
+							</Ltel>
+							<Lmicro>
+								<facturi />
+								<baza />
+								<tva />
+							</Lmicro>
+							<Lcons>
+								<facturi />
+								<baza />
+								<tva />
+							</Lcons>
+							<LS>
+								<facturi />
+								<baza />
+							</LS>
+							<AN>
+								<facturi />
+								<baza />
+								<tva />
+							</AN>
+							<ANtel>
+								<facturi />
+								<baza />
+								<tva />
+							</ANtel>
+							<ANmicro>
+								<facturi />
+								<baza />
+								<tva />
+							</ANmicro>
+							<ANcons>
+								<facturi />
+								<baza />
+								<tva />
+							</ANcons>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+							<AItel>
+								<facturi />
+								<baza />
+								<tva />
+							</AItel>
+							<AImicro>
+								<facturi />
+								<baza />
+								<tva />
+							</AImicro>
+							<AIcons>
+								<facturi />
+								<baza />
+								<tva />
+							</AIcons>
+							<ASN>
+								<facturi />
+								<baza />
+							</ASN>
+							<V>
+								<facturi />
+								<baza />
+								<tva />
+							</V>
+							<Vcer>
+								<facturi />
+								<baza />
+								<tva />
+							</Vcer>
+							<Vdes>
+								<facturi />
+								<baza />
+								<tva />
+							</Vdes>
+							<Vmasa>
+								<facturi />
+								<baza />
+								<tva />
+							</Vmasa>
+							<Vcertif>
+								<facturi />
+								<baza />
+								<tva />
+							</Vcertif>
+							<Venerg>
+								<facturi />
+								<baza />
+								<tva />
+							</Venerg>
+							<Vcertif_verzi>
+								<facturi />
+								<baza />
+								<tva />
+							</Vcertif_verzi>
+							<Vteren>
+								<facturi />
+								<baza />
+								<tva />
+							</Vteren>
+							<Vaur>
+								<facturi />
+								<baza />
+								<tva />
+							</Vaur>
+							<Vtel>
+								<facturi />
+								<baza />
+								<tva />
+							</Vtel>
+							<Vmicro>
+								<facturi />
+								<baza />
+								<tva />
+							</Vmicro>
+							<Vcons>
+								<facturi />
+								<baza />
+								<tva />
+							</Vcons>
+							<C>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</C>
+							<Ccer>
+								<facturi />
+								<baza />
+								<tva />
+							</Ccer>
+							<Cdes>
+								<facturi />
+								<baza />
+								<tva />
+							</Cdes>
+							<Cmasa>
+								<facturi />
+								<baza />
+								<tva />
+							</Cmasa>
+							<Ccertif>
+								<facturi />
+								<baza />
+								<tva />
+							</Ccertif>
+							<Cenerg>
+								<facturi />
+								<baza />
+								<tva />
+							</Cenerg>
+							<Ccertif_verzi>
+								<facturi />
+								<baza />
+								<tva />
+							</Ccertif_verzi>
+							<Cteren>
+								<facturi />
+								<baza />
+								<tva />
+							</Cteren>
+							<Caur>
+								<facturi />
+								<baza />
+								<tva />
+							</Caur>
+							<Ctel>
+								<facturi />
+								<baza />
+								<tva />
+							</Ctel>
+							<Cmicro>
+								<facturi />
+								<baza />
+								<tva />
+							</Cmicro>
+							<Ccons>
+								<facturi />
+								<baza />
+								<tva />
+							</Ccons>
+						</tabel>
+					</Crepet>
+				</bodyC>
+				<bodyD>
+					<nrCUI>1</nrCUI>
+					<Drepet>
+						<cota>19</cota>
+						<tab1>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<L>
+								<facturi>1</facturi>
+								<baza>877</baza>
+								<tva>167</tva>
+							</L>
+							<LS>
+								<facturi />
+								<baza />
+							</LS>
+						</tab1>
+					</Drepet>
+					<tab2>
+						<HeaderRow xfa:dataNode="dataGroup"
+							xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+						<total>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</total>
+						<cereale>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</cereale>
+						<deseuri>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</deseuri>
+						<masa>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</masa>
+						<terenuri>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</terenuri>
+						<constructii>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</constructii>
+						<alte>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</alte>
+						<servicii>
+							<facturi />
+							<bord />
+							<file />
+							<contracte />
+							<vfacturi />
+							<vbord />
+							<vfile />
+							<vcontracte />
+						</servicii>
+					</tab2>
+				</bodyD>
+				<bodyE>
+					<nrCUI>0</nrCUI>
+				</bodyE>
+				<bodyF>
+					<nrCUI>0</nrCUI>
+				</bodyF>
+				<bodyG>
+					<totalbonuri>0</totalbonuri>
+					<incasari1>0</incasari1>
+					<incasari2>0</incasari2>
+					<incas>
+						<HeaderRow xfa:dataNode="dataGroup"
+							xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+						<i120>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i120>
+						<i119>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i119>
+						<i19>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i19>
+						<i15>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i15>
+						<i220>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i220>
+						<i219>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i219>
+						<i29>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i29>
+						<i25>
+							<baza>0</baza>
+							<tva>0</tva>
+						</i25>
+					</incas>
+				</bodyG>
+				<bodyH>
+					<H>
+						<totalPlata_A>4500</totalPlata_A>
+						<c24>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<LV>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LV>
+							<AC>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AC>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+						</c24>
+						<c20>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<LV>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LV>
+							<AC>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AC>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+						</c20>
+						<c19>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<LV>
+								<facturi>1</facturi>
+								<baza>877</baza>
+								<tva>167</tva>
+							</LV>
+							<AC>
+								<facturi>3</facturi>
+								<baza>3620</baza>
+								<tva>688</tva>
+							</AC>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+						</c19>
+						<c9>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<LV>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LV>
+							<AC>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AC>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+						</c9>
+						<c5>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<LV>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LV>
+							<AC>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AC>
+							<AI>
+								<facturi>0</facturi>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI>
+						</c5>
+					</H>
+				</bodyH>
+				<rezI>
+					<I1>
+						<info1>
+							<HeaderRow xfa:dataNode="dataGroup"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<L24>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L24>
+							<L20>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L20>
+							<L19>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L19>
+							<L9>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L9>
+							<L5>
+								<baza>0</baza>
+								<tva>0</tva>
+							</L5>
+							<LI24>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LI24>
+							<LI20>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LI20>
+							<LI19>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LI19>
+							<LI9>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LI9>
+							<LI5>
+								<baza>0</baza>
+								<tva>0</tva>
+							</LI5>
+							<A24>
+								<baza>0</baza>
+								<tva>0</tva>
+							</A24>
+							<A20>
+								<baza>0</baza>
+								<tva>0</tva>
+							</A20>
+							<A19>
+								<baza>0</baza>
+								<tva>0</tva>
+							</A19>
+							<A9>
+								<baza>0</baza>
+								<tva>0</tva>
+							</A9>
+							<A5>
+								<baza>0</baza>
+								<tva>0</tva>
+							</A5>
+							<AI24>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI24>
+							<AI20>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI20>
+							<AI19>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI19>
+							<AI9>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI9>
+							<AI5>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AI5>
+							<AB24>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AB24>
+							<AB20>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AB20>
+							<AB19>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AB19>
+							<AB9>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AB9>
+							<AB5>
+								<baza>0</baza>
+								<tva>0</tva>
+							</AB5>
+						</info1>
+					</I1>
+					<i2>
+						<plaja1>
+							<serie_i>fct</serie_i>
+							<nr_i>1</nr_i>
+							<serie_f>fct</serie_f>
+							<nr_f>1</nr_f>
+						</plaja1>
+						<facturi2>
+							<fact_emise>1</fact_emise>
+							<plaja>
+								<nr_f>1</nr_f>
+								<serie_f />
+								<nr_i>1</nr_i>
+								<serie_i>fct</serie_i>
+							</plaja>
+						</facturi2>
+					</i2>
+				</rezI>
+				<sold_neg>
+					<solicit>0</solicit>
+					<tab>
+						<tab1>
+							<Row1 xfa:dataNode="dataGroup" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<r2>
+								<da>0</da>
+							</r2>
+							<r3>
+								<da>0</da>
+							</r3>
+							<r4>
+								<da>0</da>
+							</r4>
+							<r5>
+								<da>0</da>
+							</r5>
+							<r6>
+								<da>0</da>
+							</r6>
+							<r7 xfa:dataNode="dataGroup" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<r8>
+								<da>0</da>
+							</r8>
+							<r9>
+								<da>0</da>
+							</r9>
+							<r10>
+								<da>0</da>
+							</r10>
+							<r11>
+								<da>0</da>
+							</r11>
+							<r12>
+								<da>0</da>
+							</r12>
+							<r13 xfa:dataNode="dataGroup" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<r14>
+								<da>0</da>
+							</r14>
+							<r15>
+								<da>0</da>
+							</r15>
+							<r16>
+								<da>0</da>
+							</r16>
+							<r17>
+								<da>0</da>
+							</r17>
+							<r18>
+								<da>0</da>
+							</r18>
+							<r19>
+								<da>0</da>
+							</r19>
+							<r20>
+								<da>0</da>
+							</r20>
+						</tab1>
+						<tab2>
+							<r1>
+								<da>0</da>
+							</r1>
+							<Row2 xfa:dataNode="dataGroup" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<r2>
+								<da>0</da>
+							</r2>
+							<r3>
+								<da>0</da>
+							</r3>
+							<r4>
+								<da>0</da>
+							</r4>
+							<r5>
+								<da>0</da>
+							</r5>
+							<r6>
+								<da>0</da>
+							</r6>
+							<r7>
+								<da>0</da>
+							</r7>
+							<r8>
+								<da>0</da>
+							</r8>
+							<r9 xfa:dataNode="dataGroup" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+							<r10>
+								<da>0</da>
+							</r10>
+							<r11>
+								<da>0</da>
+							</r11>
+							<r12>
+								<da>0</da>
+							</r12>
+							<r13>
+								<da>0</da>
+							</r13>
+							<r14>
+								<da>0</da>
+							</r14>
+							<r15>
+								<da>0</da>
+							</r15>
+							<r16>
+								<da>0</da>
+							</r16>
+							<r17>
+								<da>0</da>
+							</r17>
+							<r18>
+								<da>0</da>
+							</r18>
+							<r19>
+								<da>0</da>
+							</r19>
+							<r20>
+								<da>0</da>
+							</r20>
+						</tab2>
+					</tab>
+				</sold_neg>
+				<date_deduc>
+					<deduc24 />
+					<deduc20 />
+					<deduc19 />
+					<deduc9 />
+					<deduc5 />
+				</date_deduc>
+				<date_deduc_TVAi>
+					<date51>
+						<deduc5>0</deduc5>
+						<deduc9>0</deduc9>
+						<deduc19>0</deduc19>
+						<deduc20>0</deduc20>
+						<deduc24>0</deduc24>
+					</date51>
+					<date52>
+						<deduc5>0</deduc5>
+						<deduc9>0</deduc9>
+						<deduc19>0</deduc19>
+						<deduc20>0</deduc20>
+						<deduc24>0</deduc24>
+					</date52>
+					<date53>
+						<deduc5>0</deduc5>
+						<deduc9>0</deduc9>
+						<deduc19>0</deduc19>
+						<deduc20>0</deduc20>
+						<deduc24>0</deduc24>
+					</date53>
+					<date_marja>
+						<incasari1 />
+						<costuri1 />
+						<marja1 />
+						<tva1 />
+						<tva2 />
+						<marja2 />
+						<costuri2 />
+						<incasari2 />
+					</date_marja>
+					<lista>
+						<detaliu_lista>
+							<tip_operatiune />
+							<livrari />
+							<activitate />
+							<deduc9 />
+							<deduc19 />
+							<deduc5 />
+							<deduc20 />
+							<deduc24 />
+						</detaliu_lista>
+					</lista>
+				</date_deduc_TVAi>
+				<intocmit>
+					<reprezentant>-</reprezentant>
+					<tip_reprez>-</tip_reprez>
+					<tip_intocmit>1</tip_intocmit>
+					<den_intocmit>Popescu Gigi</den_intocmit>
+					<functie>Administrator general aplicatie</functie>
+					<calitate_alta />
+					<calitate />
+					<cui_intocmit>1452365478945</cui_intocmit>
+					<reprezentant2>-</reprezentant2>
+					<tip_reprez2>-</tip_reprez2>
+					<schim_opt>0</schim_opt>
+					<optiune>0</optiune>
+				</intocmit>
+				<body12>
+					<sub_semnatura>
+						<numeFisier />
+					</sub_semnatura>
+				</body12>
+				<tip1>
+					<tip_partener>1</tip_partener>
+					<sub1>
+						<sub2>
+							<ascunde_produs>0</ascunde_produs>
+							<seq2>1</seq2>
+							<denP>Asterisc</denP>
+							<Tip>A</Tip>
+							<cota>19</cota>
+							<cuiP>78964215</cuiP>
+							<adresa>
+								<localitate />
+								<nr />
+								<bloc />
+								<apart />
+								<alte_detalii />
+								<strada />
+								<tara />
+								<judet />
+							</adresa>
+							<nrfact>2</nrfact>
+							<baza>620</baza>
+							<tva>118</tva>
+						</sub2>
+					</sub1>
+					<box_submit>
+						<verif_unicit_L2 />
+						<verif_unicit_L3 />
+					</box_submit>
+					<box_sortare xfa:dataNode="dataGroup"
+						xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+					<sub1>
+						<sub2>
+							<ascunde_produs>0</ascunde_produs>
+							<seq2>1</seq2>
+							<denP>Furnizor Vinuri </denP>
+							<Tip>A</Tip>
+							<cota>19</cota>
+							<cuiP>12312323213</cuiP>
+							<adresa>
+								<localitate />
+								<nr />
+								<bloc />
+								<apart />
+								<alte_detalii />
+								<strada />
+								<tara />
+								<judet />
+							</adresa>
+							<nrfact>1</nrfact>
+							<baza>3000</baza>
+							<tva>570</tva>
+						</sub2>
+					</sub1>
+				</tip1>
+				<tip1>
+					<tip_partener>2</tip_partener>
+					<sub1>
+						<sub2>
+							<ascunde_produs>0</ascunde_produs>
+							<seq2>1</seq2>
+							<denP>Salt88</denP>
+							<Tip>L</Tip>
+							<cota>19</cota>
+							<cuiP>122324324</cuiP>
+							<adresa>
+								<localitate />
+								<nr />
+								<bloc />
+								<apart />
+								<alte_detalii />
+								<strada />
+								<tara />
+								<judet />
+							</adresa>
+							<nrfact>1</nrfact>
+							<baza>877</baza>
+							<tva>167</tva>
+							<tip_document />
+						</sub2>
+					</sub1>
+					<box_submit>
+						<verif_unicit_L2 />
+						<verif_unicit_L3 />
+					</box_submit>
+					<box_sortare xfa:dataNode="dataGroup"
+						xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" />
+				</tip1>
+				<tip2>
+					<header>
+						<judet />
+					</header>
+					<ianuarie>
+						<nrfactL>0</nrfactL>
+						<bazaL5>0</bazaL5>
+						<tvaL5>0</tvaL5>
+						<bazaL9>0</bazaL9>
+						<tvaL9>0</tvaL9>
+						<bazaL19>0</bazaL19>
+						<tvaL19>0</tvaL19>
+						<bazaL20>0</bazaL20>
+						<tvaL20>0</tvaL20>
+						<bazaL24>0</bazaL24>
+						<tvaL24>0</tvaL24>
+						<nrLS>0</nrLS>
+						<bazaLS>0</bazaLS>
+					</ianuarie>
+				</tip2>
+				<butoane>
+					<asteptati>Asteptati !</asteptati>
+				</butoane>
+				<nume_declar>Popescu Gigi</nume_declar>
+				<prenume_declar />
+				<functie_declar>Administrator general aplicatie</functie_declar>
+				<numeFisier />
+				<calculatedCui />
+				<calculatedAnul>2016</calculatedAnul>
+				<calculatedluna />
+				<nr_pagina>5</nr_pagina>
+				<calculatedCui />
+				<calculatedAnul>2016</calculatedAnul>
+				<calculatedluna />
+				<nr_pagina>6</nr_pagina>
+			</form1>
+		</xfa:data>
+	</xfa:datasets>
+	<pdf href='../D394_XML_310117.pdf' xmlns='http://ns.adobe.com/xdp/pdf/' />
+</xdp:xdp>
+
