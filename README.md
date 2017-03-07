@@ -1,2 +1,2 @@
 # DeclaratiiANAF
-Modalități și unelte de prelucrare a datelor pentru declarațiile ce trebuie depuse la ANAF. 
+Modalități și unelte de prelucrare a formatelor de date xml pentru declarațiile ce trebuie depuse la ANAF. 
