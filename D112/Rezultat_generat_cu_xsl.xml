@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><frmMAIN xmlns:d112v2="mfp:anaf:dgti:declaratie_unica:declaratie:v2">
+  <sbfrmPage1Ang>
+    <sfmIdentif>
+      <d_rec>0</d_rec>
+      <luna_r>03</luna_r>
+      <an_r>2017</an_r>
+      <den>WSalTest</den>
+      <adrFisc>, PRINCIPALA, 94</adrFisc>
+      <telFisc/>
+      <faxFisc/>
+      <mailFisc/>
+      <dat>1</dat>
+      <tRisc>0.168</tRisc>
+      <caen>0150</caen>
+      <cif>29699900</cif>
+      <RO/>
+      <Bifa_FdGar>1</Bifa_FdGar>
+    </sfmIdentif>
+    <sfmIdentif2>
+      <rgCom/>
+      <adrSoc>, PRINCIPALA, 94</adrSoc>
+      <telSoc/>
+      <faxSoc/>
+      <mailSoc/>
+      <casaAng>BH</casaAng>
+      <tRisc>0.168</tRisc>
+      <caen>0150</caen>
+      <dat>1</dat>
+    </sfmIdentif2>
+    <sbfrmFooter>
+      <Nr_inreg/>
+      <Data_inreg/>
+      <nume_declar>a</nume_declar>
+      <prenume_declar>aa</prenume_declar>
+      <functie_declar>aaa</functie_declar>
+    </sbfrmFooter>
+  </sbfrmPage1Ang>
+</frmMAIN>
