@@ -54,7 +54,9 @@
 				<sfmSectATotal>
 					<totalPlata_A></totalPlata_A>
 				</sfmSectATotal>
-
+				<sfmSectB/>
+				<sbfrmSectiuneaC/>
+				<sbfrmSectiuneaD/>
 			</sbfrmPage1Ang>
 
 		</frmMAIN>
